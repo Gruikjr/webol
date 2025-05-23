@@ -39,7 +39,7 @@ python main.py
 
 > Replace `main.py` with the correct entry point if different.
 
-## Project Structure
+## Project Structure (not yet)
 
 ```
 game/
